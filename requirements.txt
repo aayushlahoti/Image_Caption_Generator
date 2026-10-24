@@ -1,0 +1,9 @@
+
+torch
+transformers
+Pillow
+streamlit
+numpy
+
+
+#pytest after the initial project is complete 
