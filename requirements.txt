@@ -4,6 +4,8 @@ transformers
 Pillow
 streamlit
 numpy
+python-dotenv
+pytest
 
 
 #pytest after the initial project is complete 
