@@ -1,7 +1,7 @@
 from config.config import Config
 from preprocessing.image_processor import preprocess
 from utils.file_handler import save_caption
-from utils.validators import validate_upload
+from utils.validator import validate_upload
 
 
 class CaptionService:
